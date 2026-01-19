@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Altis ASO Updates</title>
+        <link>https://Ghuel.github.io/Altis-Updates/appcast.xml</link>
+        <description>Auto Updates for Altis ASO</description>
+        <language>en</language>
+        
+        <!-- Aucune version pour l'instant - sera ajoutée lors de la première release -->
+    </channel>
+</rss>
