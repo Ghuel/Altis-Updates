@@ -6,6 +6,28 @@
         <description>Auto Updates for Altis ASO</description>
         <language>en</language>
         
-        <!-- Aucune version pour l'instant - sera ajoutée lors de la première release -->
+        <item>
+            <title>Version 1.0.0</title>
+            <pubDate>Sat, 24 Jan 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/Ghuel/Altis-Updates/releases/download/v1.0.0/AltisASO-1.0.0.zip"
+                sparkle:version="1"
+                sparkle:shortVersionString="1.0.0"
+                length="8492924"
+                type="application/octet-stream"
+                sparkle:edSignature="XA0o54lc2HyZziII51g1TRvo9UlmlJtq/Kr7yyx2gMrBOxguTsL32sSZjDyBeu4ALD4A3ykg45dWE7YhJAPOBw=="/>
+            <description><![CDATA[
+                <h2>Version 1.0.0</h2>
+                <ul>
+                    <li>First public release</li>
+                    <li>Keyword and position tracking</li>
+                    <li>Explore module (Premium)</li>
+                    <li>Apple Intelligence integration</li>
+                </ul>
+            ]]></description>
+        </item>
     </channel>
 </rss>
