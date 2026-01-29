@@ -29,5 +29,26 @@
                 </ul>
             ]]></description>
         </item>
+        <item>
+    <title>Version 1.1.0</title>
+    <pubDate>jeu., 29 janv. 2026 18:37:31 +0000</pubDate>
+    <sparkle:version>2</sparkle:version>
+    <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+    <enclosure
+        url="https://github.com/Ghuel/Altis-Updates/releases/download/v1.1.0/AltisASO-1.1.0.zip"
+        sparkle:version="2"
+        sparkle:shortVersionString="1.1.0"
+        length="11696722"
+        type="application/octet-stream"
+        sparkle:edSignature="MLbIHiSNdrOBVfSrpUseq2/ttY4hzP5mXhuPg7KN0LB4LbLnt0s5kVgVsHJchcX2tMf/6MAeK765DqpaPzj3AA=="/>
+    <description><![CDATA[
+        <h2>Version 1.1.0</h2>
+        <ul>
+            Notes: https://github.com/Ghuel/Altis-Updates/releases/tag/v1.1.0
+        </ul>
+    ]]></description>
+</item>
+
     </channel>
 </rss>
