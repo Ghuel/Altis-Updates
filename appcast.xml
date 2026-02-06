@@ -9,12 +9,12 @@
         <item>
             <title>Version 1.2.0</title>
             <pubDate>Mon, 02 Feb 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/Ghuel/Altis-Updates/releases/download/v1.2.0/AltisASO-1.2.0.zip"
-                sparkle:version="2"
+                sparkle:version="3"
                 sparkle:shortVersionString="1.2.0"
                 length="11722040"
                 type="application/octet-stream"
