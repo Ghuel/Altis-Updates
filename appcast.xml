@@ -13,7 +13,7 @@
             <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/Ghuel/Altis-Updates/releases/download/v1.3.0/AltisASO-1.3.0.zip"
+                url="https://github.com/Ghuel/Altis-Updates/releases/download/1.3.0/AltisASO-1.3.0.zip"
                 sparkle:version="4"
                 sparkle:shortVersionString="1.3.0"
                 length="11814490"
