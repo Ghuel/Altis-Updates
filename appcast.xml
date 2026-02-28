@@ -7,85 +7,23 @@
         <language>en</language>
 
         <item>
-            <title>Version 1.3.0</title>
-            <pubDate>Sun, 09 Feb 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <title>Version 2.0.0</title>
+            <pubDate>Fri, 28 Feb 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/Ghuel/Altis-Updates/releases/download/1.3.0/AltisASO-1.3.0.zip"
-                sparkle:version="4"
-                sparkle:shortVersionString="1.3.0"
-                length="11814490"
+                url="https://Ghuel.github.io/Altis-Updates/releases/AltisASO-2.0.0.dmg"
+                sparkle:version="5"
+                sparkle:shortVersionString="2.0.0"
+                length="13828659"
                 type="application/octet-stream"
-                sparkle:edSignature="Up0EsqdT5Vfz434xDqyFlBAl+1oZbo7QYmx0PrzQqs5eqYHVGebkP7gQG/1Q/5u8EhMeN7yl+TklIlrvz/AWAw=="/>
+                sparkle:edSignature="ZyaMQ1AyMBsN9YHlss1R8OJ3T8CVUzITNelWrS8qmzZCP3H1sxLufCssfOpTXIspZsSY/JXxePZozPFrlJ9xCQ=="/>
             <description><![CDATA[
-                <h2>Version 1.3.0</h2>
+                <h2>Version 2.0.0</h2>
                 <ul>
-                    <li>Notes: https://github.com/Ghuel/Altis-Updates/releases/tag/v1.3.0</li>
-                </ul>
-            ]]></description>
-        </item>
-        <item>
-            <title>Version 1.2.0</title>
-            <pubDate>Mon, 02 Feb 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/Ghuel/Altis-Updates/releases/download/v1.2.0/AltisASO-1.2.0.zip"
-                sparkle:version="3"
-                sparkle:shortVersionString="1.2.0"
-                length="11722050"
-                type="application/octet-stream"
-                sparkle:edSignature="Zst6uhYsBDQOpEtrsoFFQqz0QhrL4pG3tMKw2AZvNLHFakEWGaT9uOSlcrrfPJOt7ZeGbyTKfno3NlW5OoaQBw=="/>
-            <description><![CDATA[
-                <h2>Version 1.2.0</h2>
-                <ul>
-                    <li>Notes: https://github.com/Ghuel/Altis-Updates/releases/tag/v1.2.0</li>
-                </ul>
-            ]]></description>
-        </item>
-        <item>
-            <title>Version 1.1.0</title>
-            <pubDate>Thu, 29 Jan 2026 18:37:31 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/Ghuel/Altis-Updates/releases/download/v1.1.0/AltisASO-1.1.0.zip"
-                sparkle:version="2"
-                sparkle:shortVersionString="1.1.0"
-                length="11696722"
-                type="application/octet-stream"
-                sparkle:edSignature="MLbIHiSNdrOBVfSrpUseq2/ttY4hzP5mXhuPg7KN0LB4LbLnt0s5kVgVsHJchcX2tMf/6MAeK765DqpaPzj3AA=="/>
-            <description><![CDATA[
-                <h2>Version 1.1.0</h2>
-                <ul>
-                    <li>Notes: https://github.com/Ghuel/Altis-Updates/releases/tag/v1.1.0</li>
-                </ul>
-            ]]></description>
-        </item>
-        <item>
-            <title>Version 1.0.0</title>
-            <pubDate>Sat, 24 Jan 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/Ghuel/Altis-Updates/releases/download/v1.0.0/AltisASO-1.0.0.zip"
-                sparkle:version="1"
-                sparkle:shortVersionString="1.0.0"
-                length="8495733"
-                type="application/octet-stream"
-                sparkle:edSignature="tMJN0DYZAhrC3vnR7nTnu/qlUGfJgaFFet8DDrcj3fnvvuliE7u+OXQAET25I0RVWLvokRksiysnhIEOUGwmAg=="/>
-            <description><![CDATA[
-                <h2>Version 1.0.0</h2>
-                <ul>
-                    <li>First public release</li>
-                    <li>Keyword and position tracking</li>
-                    <li>Explore module (Premium)</li>
-                    <li>Apple Intelligence integration</li>
+                    <li>Altis 2.0 — distribution DMG</li>
+                    <li>Lots new features, includes Listing Studio, Winner DNA, Explore, updates and fixes</li>
                 </ul>
             ]]></description>
         </item>
