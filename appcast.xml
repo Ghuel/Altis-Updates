@@ -6,6 +6,29 @@
         <description>Auto Updates for Altis ASO</description>
         <language>en</language>
 
+        <!-- Nouvelle version EN PREMIER : Sparkle considère le premier item comme la dernière dispo. v2 = DMG + clé Ed25519 unique. -->
+        <item>
+            <title>Version 2.1.0</title>
+            <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://Ghuel.github.io/Altis-Updates/releases/AltisASO-2.1.0.dmg"
+                sparkle:version="6"
+                sparkle:shortVersionString="2.1.0"
+                length="16696351"
+                type="application/octet-stream"
+                sparkle:edSignature="b0SY4ATZ8yezHXgq+jpaYShIHuEQi+QmWQMNZiYgeZj8do03jBqktsJVOkzF7j9rCJPyhQlKOVaJs7pIpQIvCg=="/>
+            <description><![CDATA[
+                <h2>Version 2.1.0 (build 6)</h2>
+                <ul>
+                    <li>Minor bug fixes</li>
+                    <li>Improved keyword translation</li>
+                    <li>Fixed a bug related to keyword popularity following a change in Apple's data to ensure the most up-to-date information is always "fresh". A simple refresh of the rankings will resolve the issue for you after the update 2.1.0.</li>
+                </ul>
+            ]]></description>
+        </item>
         <item>
             <title>Version 2.0.0</title>
             <pubDate>Fri, 28 Feb 2026 12:00:00 +0000</pubDate>
@@ -22,8 +45,8 @@
             <description><![CDATA[
                 <h2>Version 2.0.0</h2>
                 <ul>
-                    <li>Altis 2.0 — distribution DMG</li>
-                    <li>Lots new features, includes Listing Studio, Winner DNA, Explore, updates and fixes</li>
+                    <li>Altis 2.0 — distribution en DMG (glisser-déposer vers Applications)</li>
+                    <li>Listing Studio, Winner DNA, Explore, mises à jour et correctifs</li>
                 </ul>
             ]]></description>
         </item>
