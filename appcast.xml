@@ -6,6 +6,7 @@
         <description>Auto Updates for Altis ASO</description>
         <language>en</language>
 
+        <!-- Nouvelle version EN PREMIER : Sparkle considère le premier item comme la dernière dispo. v2 = DMG + clé Ed25519 unique. -->
         <item>
             <title>Version 2.1.0</title>
             <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
@@ -16,9 +17,9 @@
                 url="https://Ghuel.github.io/Altis-Updates/AltisASO-2.1.0.dmg"
                 sparkle:version="6"
                 sparkle:shortVersionString="2.1.0"
-                length="16696351"
+                length="16827971"
                 type="application/octet-stream"
-                sparkle:edSignature="b0SY4ATZ8yezHXgq+jpaYShIHuEQi+QmWQMNZiYgeZj8do03jBqktsJVOkzF7j9rCJPyhQlKOVaJs7pIpQIvCg=="/>
+                sparkle:edSignature="afvDKNtolk2whxtYdUeYBQrYpDUmo6kytxveNrNqayL+F2pIYClNE+OfHqxLdOiOA3eBoq1gKbDzcfO1zLBTCw=="/>
             <description><![CDATA[
                 <h2>Version 2.1.0 (build 6)</h2>
                 <ul>
