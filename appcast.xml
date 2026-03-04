@@ -14,7 +14,7 @@
             <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/Ghuel/Altis-Updates/releases/download/v2.1.0/AltisASO-2.1.0.dmg"
+                url="https://Ghuel.github.io/Altis-Updates/releases/AltisASO-2.1.0.dmg"
                 sparkle:version="6"
                 sparkle:shortVersionString="2.1.0"
                 length="16696351"
